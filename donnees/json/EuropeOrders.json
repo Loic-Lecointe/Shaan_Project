@@ -1,0 +1,26 @@
+[
+    {
+        "name":"Kebab",
+        "mandatoryIngredients":["PAIN","VIANDE_A_KEBAB"],
+        "optionalIngredients":["SALADE","TOMATE","OIGNON"],
+        "isHot":"true"
+    },
+    {
+        "name":"Pizza",
+        "mandatoryIngredients":["PATE_A_PIZZA","SAUCE_TOMATE"],
+        "optionalIngredients":["JAMBON","CHAMPIGNON","CHORIZO","FROMAGE","ANANAS","MOZARELLA","SAUCISSE_DE_TOULOUSE"],
+        "isHot":"true"
+    },
+    {
+        "name":"Poireaux a la vinaigrette",
+        "mandatoryIngredients":["POIREAU","OEUF","ECHALOTTE"],
+        "optionalIngredients":[],
+        "isHot":"true"
+    },
+    {
+        "name":"Boeuf braise a la biere",
+        "mandatoryIngredients":["BOEUF","CAROTTE","BIERE","CELERI","OIGNON","AIL"],
+        "optionalIngredients":[],
+        "isHot":"true"
+    }
+]
